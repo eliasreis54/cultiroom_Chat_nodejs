@@ -13,9 +13,7 @@ node installed
 
 ### Installing
 
-```
-(https://nodejs.org/en/)
-```
+* [nodejs](https://nodejs.org/en/)
 
 ## Built With
 
