@@ -28,7 +28,7 @@ node installed
 
 ## Authors
 
-* **Elias Reis** - [PurpleBooth](eliasreis54@gmail.com)
+* **Elias Reis** - (eliasreis54@gmail.com)
 
 ## License
 
