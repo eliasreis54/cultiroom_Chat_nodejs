@@ -14,7 +14,7 @@ node installed
 ### Installing
 
 ```
-npm install
+(https://nodejs.org/en/)
 ```
 
 ## Built With
